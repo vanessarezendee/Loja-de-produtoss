@@ -1,0 +1,1 @@
+// Arquivo JavaScript vazio, conforme solicitado no exercício.
